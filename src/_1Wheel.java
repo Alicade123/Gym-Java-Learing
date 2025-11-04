@@ -1,7 +1,7 @@
 //Wheel.java
-public class Wheel  {
+public class _1Wheel {
     private int cost ;
-    public Wheel(int price){
+    public _1Wheel(int price){
         if(price>0)this.cost = price;
     }
     public int getCost(){
