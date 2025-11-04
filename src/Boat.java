@@ -1,5 +1,5 @@
 //Boat.java
-public class Boat extends Wheel{
+public class Boat extends _1Wheel {
     Boat(){
         super(500_000_000);
     }
