@@ -1,5 +1,5 @@
 //Vehicle.java
-public class Vehicle extends Wheel {
+public class Vehicle extends _1Wheel {
     Vehicle(int price){
         super(price);
     }

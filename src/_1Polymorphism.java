@@ -5,8 +5,8 @@ public class _1Polymorphism {
         Vehicle vehicle = new Vehicle(1200);
         Bicycle bicycle = new Bicycle();
         Boat boat = new Boat();
-        Wheel[] wheels = { bicycle, boat, vehicle };
-        for(Wheel wheel : wheels){
+        _1Wheel[] wheels = { bicycle, boat, vehicle };
+        for(_1Wheel wheel : wheels){
             wheel.start();
         }
         Boat KivuQueen = new Boat();
