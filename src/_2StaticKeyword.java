@@ -1,4 +1,4 @@
-public class StaticKeyword{
+public class _2StaticKeyword {
     public static void main (String[] args){
 
         _2StaticMembers friend1 = new _2StaticMembers();
