@@ -1,4 +1,4 @@
-public class StaticMembers {
+public class _2StaticMembers {
     static int numberOfFriends;
     String name;
     public void setFriend(String name){
