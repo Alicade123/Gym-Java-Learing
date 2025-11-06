@@ -6,7 +6,7 @@ public class _2StaticMembers {
         numberOfFriends++;
     }
     public static void  getNumberOfFriends(){
-System.out.println("Number of friends: " + numberOfFriends);
+    System.out.println("Number of friends: " + numberOfFriends);
 
     }
 
