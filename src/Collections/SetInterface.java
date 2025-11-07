@@ -1,10 +1,11 @@
 package Collections;
-import java.util.Set;
 import java.util.TreeSet;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
+import  java.util.Set;
+import  java.util.HashSet;
+import  java.util.LinkedHashSet;
 
-public class Set {
+
+public class SetInterface {
     public static void main(String[] args) {
         Set <Integer> sortedSet  = new TreeSet<>();
         sortedSet.add(3);
