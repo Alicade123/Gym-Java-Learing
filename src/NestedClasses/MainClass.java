@@ -1,6 +1,6 @@
 package NestedClasses;
 
-public class Main {
+public class MainClass {
     public static void main(){
         Outer outer = new Outer(); // instance of outer
         Outer.Inner inner = outer.new Inner(); //instance of inner
