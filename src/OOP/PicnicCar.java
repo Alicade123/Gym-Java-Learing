@@ -1,4 +1,7 @@
 package OOP;
 
-public class PicnicCar {
+public class PicnicCar extends Car{
+    public void Show(){
+        System.out.println("The Picnic Car");
+    }
 }
