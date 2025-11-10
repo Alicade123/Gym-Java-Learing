@@ -1,3 +1,4 @@
+package PracticalMental;
 import java.util.ArrayList;
 
 class Employee {
@@ -42,7 +43,7 @@ public class Company {
         for (Employee e : employees) {
             double total = e.calculateSalary();
             if (total > 1000) {
-                System.out.println(e.name + " → " + total);
+                System.out.println(e.name + " : " + total);
             }
         }
     }
