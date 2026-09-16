@@ -6,7 +6,7 @@ public class Main {
     public static void main(){
 
         Stack<String> stack = new Stack<String>();
-        System.out.println(stack.empty());
+        System.out.print(stack.empty());
         stack.push("Minecraft");
         stack.push("skyrim");
         stack.push("Doom");
